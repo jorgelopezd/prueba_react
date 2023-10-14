@@ -1,7 +1,4 @@
 header{
-  position: fixed;
-  top: 0;
-  left: 0;
   width: 100vw;
   height: 15vh;
   background-color: #F5F6F7; 
@@ -12,12 +9,15 @@ header{
 
 body{
   background-color: #F5F6F7 !important;
+  width: 100wh;
+  
+}
+.card-container{
+  width: 18rem;
+  margin: 10px;
 }
 
 footer{
-  position: fixed;
-  bottom: 0;
-  left: 0;
   width: 100vw;
   height: 10vh;
   background-color: #F5F6F7;
